@@ -1,0 +1,15 @@
+html, body{
+    height: 100%;
+    width: 100%;
+}
+.leftsiDe{
+    background-color: lightgreen;
+}
+.rightsiDe{
+    background-color: lightcoral;
+}
+table{
+    border-radius: 10px;
+    width: 100%;
+    height: 100%;
+}
